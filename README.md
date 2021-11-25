@@ -5,4 +5,5 @@ A breakout board that offers an alternative to soldering wire directly to vias. 
 
 # PCB Fabrication
 Board Thickness: 0.8mm
+
 Castellated Holes: Optional
