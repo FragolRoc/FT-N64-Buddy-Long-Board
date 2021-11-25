@@ -4,7 +4,7 @@ A breakout board that offers an alternative to soldering wire directly to vias. 
 # PCB Fabrication
 <b>This PCB has not been fabricated or tested.</b> 
 
-<br>If you decide to make this board for yourself, let me know of any feedback. Enjoy!<br>
+If you decide to make this board for yourself, let me know of any feedback. Enjoy!<br>
 
 Board Thickness: 0.8mm<br>
 Castellated Holes: Optional
