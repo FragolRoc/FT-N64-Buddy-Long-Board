@@ -10,7 +10,7 @@ Board Thickness: 0.8mm<br>
 Castellated Holes: Optional
 
 OshPark: https://oshpark.com/shared_projects/uSOrQFW9 <br>
-
+Project Link: https://oshwlab.com/fragolroc/n64rgb-buddy-board
 
 # Installation
 The simple N64 RGB mod only works on systems with the VDC-NUS/VDC-NUS A encoder. Consoles with a serial number that begins with "NS1" will likely have the correct encoder. However, if the console has been shell swapped there is a chance the main board will be the incorrect version. Always check to be sure!
